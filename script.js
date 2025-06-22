@@ -19,7 +19,7 @@ const leoelcontents = [
     <br><br><strong>What do they think of this?</strong> The prospect of a US pope had long been taboo, given the country's significant geopolitical power. 
     <br><br><strong>How do they characterise Pope Leo?</strong> Pope Francis brought Prevost to the Vatican in 2023 as the powerful head of the office that vets bishop nominations, one of the most important jobs in the Catholic Church.
     <br><br>The Chicago native evoked his broad experience … saying not a word in English
-    <br><br>[He] emphasised a message of "a disarmed and disarming peace" dialogue and missionary evangelisation.<br><br><br><br><br><br>`,
+    <br><br>[He] emphasised a message of "a disarmed and disarming peace" dialogue and missionary evangelisation.<br><br><br><br><br>`,
     `<strong>First Paragraph:</strong> Pope Leo XIV has been elected as the 267th pontiff, leader of the Catholic church and spiritual guide to more than 1.4 billion Catholics. He is the first pope in history to come from the United States.
     <br><br><strong>What do they think of this?</strong> ... the influence of the United States within the Catholic Church has steadily increased … signalling a shift away from traditional European dominance.
     <br><br>This growing influence had long been accompanied by unease over the idea of entrusting the leadership of the global Catholic community to a figure from the world’s most powerful nation. In this sense, the election of Leo XIV is an unexpected and significant choice.
