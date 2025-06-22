@@ -1,0 +1,152 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+* { font-size: 1.1rem;}
+h3 { font-size: 1.3rem;}
+h2 { font-size: 2rem;}
+html {
+    background-color: cornflowerblue;
+}
+body {
+    background-color: white;
+}
+.author {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: cornflowerblue;
+    margin-bottom: 0.65rem;
+}
+.perspinput {
+    position: relative;
+    top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 25%;
+    gap: 1rem;
+    font-weight: bold;
+    color: rgb(65, 118, 216)
+}
+
+.perspinput label {
+    text-align: center;
+}
+
+
+#content {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+.text {
+    width: 60%;
+    font-size: 1.25rem;
+    text-align: justify;
+}
+
+#leoelection {
+    width: 55%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
+    margin-bottom: 2rem;
+    outline: 5px lightgray inset;
+    padding: 15px;
+    box-sizing: border-box;
+}
+/*#leoelection > * {
+    width: 50%;
+}*/
+
+#leoeltext {
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+
+#leoelcontent strong {
+    display: block;
+    text-align: center;
+}
+
+
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8em;
+    z-index: 100;
+}
+
+.navb {
+    display: inline-block;
+    color: white;
+    background-color: cornflowerblue;
+
+    width: max-content;
+    padding: 2em 2em;
+    font-weight: bold;
+}
+
+.navb:hover {
+    filter: brightness(110%);
+}
+
+a {
+    font-size: 2.5rem;
+    color: unset;
+    text-decoration: none;
+}
+
+#bomimg {
+    position: absolute;
+    width: 35%;
+    right: 0%;
+    top: -10%;
+}
+#bias-o-meter {
+    position: relative;
+    outline: 5px lightgray inset;
+    padding: 15px;
+}
+
+#bominp {
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#bominp label {
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color: cornflowerblue
+}
+#bominp label {
+    display: block;
+}
